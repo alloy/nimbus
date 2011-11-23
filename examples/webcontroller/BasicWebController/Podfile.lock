@@ -1,0 +1,12 @@
+PODS:
+  - Nimbus/Core (0.9.0):
+    - Nimbus (= 0.9.0)
+  - Nimbus/WebController (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+
+DOWNLOAD_ONLY:
+  - Nimbus (0.9.0)
+
+DEPENDENCIES:
+  - Nimbus/WebController
