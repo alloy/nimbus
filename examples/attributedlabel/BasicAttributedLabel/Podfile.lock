@@ -1,0 +1,16 @@
+PODS:
+  - Nimbus/AttributedLabel (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+  - Nimbus/Core (0.9.0):
+    - Nimbus (= 0.9.0)
+  - Nimbus/Models (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+
+DOWNLOAD_ONLY:
+  - Nimbus (0.9.0)
+
+DEPENDENCIES:
+  - Nimbus/AttributedLabel
+  - Nimbus/Models

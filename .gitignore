@@ -1,8 +1,10 @@
 .DS_Store
 *.pyc
 build/
+DerivedData
 docs/output/
 docs/output-docset/
 xcuserdata
-*.xcworkspace
 node_modules
+*.swp
+Pods
