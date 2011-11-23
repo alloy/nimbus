@@ -1,0 +1,6 @@
+platform :ios
+
+dependency 'Nimbus/Photos'
+dependency 'Nimbus/Models'
+dependency 'Nimbus/Overview'
+dependency 'Nimbus/Processors/JSON'

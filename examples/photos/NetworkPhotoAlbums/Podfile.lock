@@ -1,0 +1,36 @@
+PODS:
+  - ASIHTTPRequest (1.8.1):
+    - Reachability
+  - JSONKit (1.4)
+  - Nimbus/ASIHTTPRequest (0.9.0):
+    - ASIHTTPRequest
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+  - Nimbus/Core (0.9.0):
+    - Nimbus (= 0.9.0)
+  - Nimbus/Models (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+  - Nimbus/Overview (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+  - Nimbus/Photos (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/Core
+  - Nimbus/Processors (0.9.0):
+    - Nimbus (= 0.9.0)
+    - Nimbus/ASIHTTPRequest
+  - Nimbus/Processors/JSON (0.9.0):
+    - JSONKit
+    - Nimbus (= 0.9.0)
+    - Nimbus/Processors (= 0.9.0)
+  - Reachability (3.0.0)
+
+DOWNLOAD_ONLY:
+  - Nimbus (0.9.0)
+
+DEPENDENCIES:
+  - Nimbus/Models
+  - Nimbus/Overview
+  - Nimbus/Photos
+  - Nimbus/Processors/JSON
